@@ -1,6 +1,7 @@
 MIT License
 
 Copyright (c) 2018 AmadeusDelfino
+
 Copyright (c) 2020 DennyKuo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
